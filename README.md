@@ -16,6 +16,7 @@ I am a CSE undergraduate at IIT Patna who loves programming, speaking, travellin
 - 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me: shivam_1901cs55@iitp.ac.in
 - 📝 [Resume](http://bit.ly/ShivamSahuIITP_Resume).
+- 📝 [Portfolio](https://bit.ly/ShivamSahu).
 
 <br>
 <br>
