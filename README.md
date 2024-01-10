@@ -3,6 +3,11 @@
 ### Glad to see you here!
 
 I am a CSE graduate at IIT Patna(2019-23) who loves programming, speaking, travelling and exploring the wonders of human mind.
+Currently, working as an Associate Software Engineer at ServiceNow. At ServiceNow, I work with a team of talented developers to design, develop, and test innovative solutions for enterprise applications using C++, Java, and web technologies. I have contributed to several projects that improved the performance, usability, and security of the platform, and received positive feedback from the clients and the management.
+
+I am passionate about coding and problem solving, and I enjoy participating in online coding contests and hackathons. I have achieved a 6 star rating in problem solving on HackerRank, and earned multiple certifications in web development, digital marketing, and C++ standard template library. 
+
+I am always eager to learn new skills and technologies, and to collaborate with other students and professionals who share my interest in computer science. My goal is to become a proficient and versatile software engineer who can create impactful and innovative solutions for real-world problems.
 
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
 
