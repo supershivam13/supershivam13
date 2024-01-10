@@ -2,7 +2,7 @@
 
 ### Glad to see you here!
 
-I am a CSE undergraduate at IIT Patna who loves programming, speaking, travelling and exploring the wonders of human mind.
+I am a CSE graduate at IIT Patna(2019-23) who loves programming, speaking, travelling and exploring the wonders of human mind.
 
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
 
@@ -15,7 +15,7 @@ I am a CSE undergraduate at IIT Patna who loves programming, speaking, travellin
 - 🚀 I’m also actively involved in competitive progamming.
 - 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me: shivam_1901cs55@iitp.ac.in
-- 📝 [Resume](http://bit.ly/ShivamSahuIITP_Resume).
+- 📝 [Resume](https://drive.google.com/file/d/1SjwzjfHzaoLAO2mfGOWWBc4lik-hYRkq/view?usp=sharing).
 - 📝 [Portfolio](https://bit.ly/ShivamSahu).
 
 <br>
