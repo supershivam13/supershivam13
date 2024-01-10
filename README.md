@@ -19,7 +19,7 @@ I am always eager to learn new skills and technologies, and to collaborate with 
 - 👨🏻‍💻 Associate Software Engineer at ServiceNow
 - 🚀 CSE Graduate from IIT Patna(2019-23)
 - 💬 Ask me about anything, I am happy to help.
-- 🚀 Goal is to become proficient and versatile Software Engineer.
+- 🚀 Goal is to become proficient Software Engineer.
 - 📫 How to reach me: shivam_1901cs55@iitp.ac.in
 - 📝 [Resume](https://drive.google.com/file/d/1SjwzjfHzaoLAO2mfGOWWBc4lik-hYRkq/view?usp=sharing).
 - 📝 [Portfolio](https://bit.ly/ShivamSahu).
