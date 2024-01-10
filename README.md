@@ -7,7 +7,7 @@ Currently, working as an Associate Software Engineer at ServiceNow. At ServiceNo
 
 I am passionate about coding and problem solving, and I enjoy participating in online coding contests and hackathons. 
 
-I am always eager to learn new skills and technologies, and to collaborate with other students and professionals who share my interest in computer science. My goal is to become a proficient and versatile software engineer who can create impactful and innovative solutions for real-world problems.
+I am always eager to learn new skills and technologies, and to collaborate with other students and professionals who share my interest in computer science.
 
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
 
