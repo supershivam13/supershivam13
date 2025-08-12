@@ -32,7 +32,7 @@ I am always eager to learn new skills and technologies, and to collaborate with 
 
 <h3 align="left">Connect with Me:-</h3>
 <p align="left">
-<a href="https://dev.to/supershivam13" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="sagnik" height="30" width="40" /></a>
+<a href="https://dev.to/shivam_sahu_b38a906eb6e22" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="sagnik" height="30" width="40" /></a>
 <a href="https://twitter.com/ShivamS87093943" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mitrasagnik" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/shivam-sahu-503/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sagnikmitra" height="30" width="40" /></a>
 <a href="https://www.facebook.com/shivam.sahu.33/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="sagnik.mitra.562" height="30" width="40" /></a>
