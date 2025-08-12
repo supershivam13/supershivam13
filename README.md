@@ -2,11 +2,12 @@
 
 ### Glad to see you here!
 
-I am a CSE graduate at IIT Patna(2019-23) who loves programming, speaking, travelling and exploring the wonders of human mind.
-Currently, working as an Associate Software Engineer at ServiceNow. At ServiceNow, I work with a team of talented developers to design, develop, and test innovative solutions for enterprise applications using C++, Java, and web technologies.
+I’m Shivam Sahu — a Computer Science & Engineering graduate from IIT Patna (Batch of 2019–23).
+Currently, I’m working as a Software Engineer (SDE-2) at ServiceNow, where I’ve been for the past two years, building and exploring the world of software development engineering.
 
-I am passionate about coding and problem solving, and I enjoy participating in online coding contests and hackathons. 
+I’m based in Hyderabad, but my curiosity often takes me traveling to new places. A tech enthusiast with quick learning skills, I love exploring innovative ideas, solving problems, and discovering what’s next in technology.
 
+Beyond the code, I’m a friendly, people-oriented person who enjoys meeting new faces, listening to music, and writing. Always eager to explore — whether it’s through technology, travel, or conversations.
 I am always eager to learn new skills and technologies, and to collaborate with other students and professionals who share my interest in computer science.
 
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
@@ -16,7 +17,7 @@ I am always eager to learn new skills and technologies, and to collaborate with 
   
 **Talking about Personal Stuffs:**
 
-- 👨🏻‍💻 Associate Software Engineer at ServiceNow
+- 👨🏻‍💻 Software Engineer(SDE-2) at ServiceNow
 - 🚀 CSE Graduate from IIT Patna(2019-23)
 - 💬 Ask me about anything, I am happy to help.
 - 🚀 Goal is to become proficient Software Engineer.
